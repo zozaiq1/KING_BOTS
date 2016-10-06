@@ -15,8 +15,8 @@
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 cd $HOME
-git clone http://Github.com/BeyondTeam/Api-TeleBeyond.git
-cd Api-TeleBeyond
+git clone https://github.com/zozaiq1/KING_BOTS.git
+cd KING_BOTS
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
@@ -49,7 +49,7 @@ Then restart the bot.
 
 #Team Channel :
 
-#([@BeyondTeam](https://telegram.me/BeyondTeam))
+#([@BeyondTeam](https://telegram.me/ll2_bot))
 
 #Special Thx To :
 
